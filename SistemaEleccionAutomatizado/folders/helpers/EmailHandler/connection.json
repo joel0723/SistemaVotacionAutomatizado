@@ -1,0 +1,7 @@
+{
+    "host": "smtp.gmail.com",
+    "username": "correorandom@gmail.com",
+    "password": "passwordrandom",
+    "port": 587,
+    "from": "Elecciones"
+}
